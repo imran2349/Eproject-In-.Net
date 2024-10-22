@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.staticwebassets.runtime.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.exe
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.deps.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.runtimeconfig.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.dll
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\bin\Debug\net8.0\Eproject In .Net.pdb
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.AssemblyInfo.cs
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets\msbuild.Eproject In .Net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets\msbuild.build.Eproject In .Net.props
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Eproject In .Net.props
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Eproject In .Net.props
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\scopedcss\bundle\Eproject In .Net.styles.css
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\scopedcss\projectbundle\Eproject In .Net.bundle.scp.css
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.dll
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\refint\Eproject In .Net.dll
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.pdb
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\Eproject In .Net.genruntimeconfig.cache
+C:\Users\hp\source\repos\Eproject In .Net\Eproject In .Net\obj\Debug\net8.0\ref\Eproject In .Net.dll

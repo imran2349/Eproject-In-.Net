@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\home\\registered.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\home\\registered.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|c:\\users\\hp\\source\\repos\\eproject in .net\\eproject in .net\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F957F873-1AA8-4761-8A9D-0AAEB05007DE}|Eproject In .Net\\Eproject In .Net.csproj|solutionrelative:eproject in .net\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:10:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registered.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Registered.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Home\\Registered.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Registered.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Home\\Registered.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:09:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:08:43.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:03:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eproject In .Net\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:50:55.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:24:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eproject In .Net\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Eproject In .Net\\Eproject In .Net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eproject In .Net\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwIoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:14:48.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
